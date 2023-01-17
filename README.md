@@ -1,7 +1,8 @@
 # VK-activity-analysis
 ***
 I created an online status parser for the social network VK In this project. I made this for my university python course.
-![image](https://user-images.githubusercontent.com/116553139/212963313-2b7381f6-848b-4ae4-b763-2b569bd380aa.png)
+
+more in Russian...
 
 ***
 __Основные возможности скрипта__
